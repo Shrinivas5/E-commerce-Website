@@ -22,20 +22,16 @@ A fully responsive e-commerce website built with HTML, CSS, and JavaScript, feat
 - **Product Management**
   - Product listing with filters
   - Category-based organization
-  - Search functionality
-  - Sort by price and name
-  - Price range filter
+
 
 - **Shopping Cart**
   - Add/remove products
-  - Quantity adjustment
-  - Total calculation
-  - Persistent cart data
+ 
 
 - **Admin Dashboard**
   - Product management (CRUD operations)
   - Order management
-  - Basic analytics
+  
 
 - **Responsive Design**
   - Mobile-first approach
@@ -54,8 +50,8 @@ A fully responsive e-commerce website built with HTML, CSS, and JavaScript, feat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/e-shop.git
-   cd e-shop
+   git clone https://github.com/Shrinivas5/E-commerce-Website
+   
    ```
 
 2. No additional installation needed as the project uses CDN for dependencies:
